@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "description": "Sync Bedrock Mantle models to OpenCode config",
+  "scripts": {
+    "sync": "node sync-models.js"
+  }
+}
